@@ -9,7 +9,9 @@ I hope you find something useful in my open source projects!
 
 📫 Feel free to reach out to me at [igolaizola.com/#contact](https://igolaizola.com/#contact)
 
-Or connect with me on:
+📢 Join my Telegram group for support and collaboration: [t.me/igolaizola_com](https://t.me/igolaizola_com)
+
+Or connect direct with me on:
 
 [![Telegram](https://raw.githubusercontent.com/gauravghongde/social-icons/30c95ea4c26d70ebceb4e34fc3d3d4514ff18643/SVG/Color/Telegram.svg)](https://t.me/igolaizola)
 [![Twitter](https://raw.githubusercontent.com/gauravghongde/social-icons/30c95ea4c26d70ebceb4e34fc3d3d4514ff18643/SVG/Color/Twitter.svg)](https://twitter.com/igolaizola)

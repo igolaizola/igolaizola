@@ -9,7 +9,7 @@ I hope you find something useful in my open source projects!
 
 📫 Feel free to reach out to me at [igolaizola.com/#contact](https://igolaizola.com/#contact)
 
-📢 Join my Telegram group for support and collaboration: [t.me/igolaizola_com](https://t.me/igolaizola_com)
+📢 Join my Telegram group for support and collaboration: [t.me/igohub](https://t.me/igohub)
 
 Or connect direct with me on:
 
